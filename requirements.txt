@@ -1,0 +1,10 @@
+celery
+kombu
+Redis
+flower
+Django
+django-rest-framework
+djangorestframework
+djangorestframework-simplejwt
+django-debug-toolbar
+pandas

@@ -1,0 +1,8 @@
+linenv
+winenv
+*.yml
+*.sh
+.env.dev
+.dockerignore
+Dockerfile
+*.rdb

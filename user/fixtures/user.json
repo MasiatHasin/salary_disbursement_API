@@ -1,0 +1,66 @@
+[
+{
+    "model": "user.customuser",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$NPx21BQjfuPaLtdWFbpcnZ$1AQ/CF8k2eYIxO735PrjuVbYj3Oo0NLEt+598WSCanc=",
+        "last_login": "2024-03-12T08:22:22.629Z",
+        "is_superuser": true,
+        "username": "super",
+        "first_name": "",
+        "last_name": "",
+        "email": "super@saldis.come",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-03-12T08:22:10.983Z",
+        "company": 0,
+        "is_verified": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user.customuser",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$jBGKLXPTtMTae1gjqDg6gx$za5DzamgzF0fks6ii2zMq87+fC6TsadqVPJUmvzuE1g=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Noshin",
+        "first_name": "",
+        "last_name": "",
+        "email": "noshin@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-03-12T08:22:57Z",
+        "company": 1,
+        "is_verified": true,
+        "groups": [
+            1
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user.customuser",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$vNOMTYUiwJ2avvwHb12N7y$uG7tKgejlZjdw6EgNb55aj0g0cIYjaHbhxqJYdexV98=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Mashiat",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-03-12T08:24:59Z",
+        "company": 1,
+        "is_verified": true,
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+}
+]

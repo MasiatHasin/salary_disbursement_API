@@ -1,0 +1,32 @@
+[
+{
+    "model": "company.company",
+    "pk": 0,
+    "fields": {
+        "organization": "default",
+        "founded_year": 2024,
+        "description": "",
+        "is_active": true,
+        "industry": "none",
+        "website": "none",
+        "email": "none",
+        "created": "2024-02-19T00:00:00Z",
+        "updated": "2024-02-19T00:00:00Z"
+    }
+},
+{
+    "model": "company.company",
+    "pk": 1,
+    "fields": {
+        "organization": "Square",
+        "founded_year": 1976,
+        "description": "None",
+        "is_active": true,
+        "industry": "pharmaseuticals",
+        "website": "http://www.square.com",
+        "email": "contact@square.com",
+        "created": "2024-03-12T08:23:11Z",
+        "updated": "2024-03-12T08:23:11Z"
+    }
+}
+]
